@@ -7,9 +7,191 @@ The most-taught lessons from one month of live Skylit Stages, written so a tradi
 - Evidence base: 9,530 statements logged as verbatim quotes, each verified by script against its transcript, then distilled into the summaries below
 - Method: every idea is ranked by repetition. "9 voices, 44 Stages" means nine different people taught it across forty-four sessions
 
-**Read this the right way.** A high count means widely taught, not proven profitable. Every strategy in this file is a claim until your own testing says otherwise. The counts are floors from one recorded month. This guide contains no transcripts and no verbatim quotes; everything is paraphrased.
+**Read this the right way.** A high count means widely taught, not proven profitable. Every strategy in this file is a claim until your own testing says otherwise. The counts are floors from one recorded month. This file contains no transcripts; the lessons are paraphrased. The companion PDF carries short quotes, each credited to its speaker and linked to the replay.
 
 **Unofficial.** This is an independent member project. It is not an official Skylit publication and is not sponsored, endorsed, or reviewed by Skylit, Inc. Nothing here is financial advice.
+
+---
+
+## The glossary: the words the room uses every day
+
+Each term below carries its plain meaning, why it matters, and a replay link to a moment it was taught (open replay links signed in to Skylit).
+
+### Heat map
+Skylit's dealer positioning map. As price moves, dealers are forced to buy or sell to stay hedged.
+**Why it matters:** It shows what dealers must do at each level. That is where moves start and stall.
+Taught by garma, 2026-10-31 -- [replay](https://app.skylit.ai/stages/96e2a4fe-3bf7-4b33-a8f0-38ccb8f5fb04/replay?t=3135)
+
+### Node
+The net exposure at one strike. Bigger size means more weight.
+**Why it matters:** Nodes are the levels every play in this doc keys off.
+Taught by Larold, 2026-10-31 -- [replay](https://app.skylit.ai/stages/2ea9bf73-d04a-4232-b5d1-4e466c662c21/replay?t=3779)
+
+### Negative node
+Volatile fuel. Price tends to speed up and overshoot through these.
+**Why it matters:** It pulls price toward it fast. On arrival it can floor the move or snap it back.
+Taught by Glitch, 2026-10-28 -- [replay](https://app.skylit.ai/stages/1c461666-a42f-472f-ad84-8fd94c3b42b6/replay?t=4997)
+
+### Node growth
+A node getting bigger. It only matters if it keeps growing.
+**Why it matters:** Growth means a level is being defended right now, not yesterday.
+Taught by Giul, 2026-11-13 -- [replay](https://app.skylit.ai/stages/9a0a5f32-31f9-492d-a51b-996a9aac5084/replay?t=6751)
+
+### Confluence
+Two or three of the maps showing the same level.
+**Why it matters:** One map can lie. Two agreeing is the room's minimum to trade.
+Taught by garma, 2026-10-31 -- [replay](https://app.skylit.ai/stages/96e2a4fe-3bf7-4b33-a8f0-38ccb8f5fb04/replay?t=4315)
+
+### Messy map
+Nodes clustered close, equal-size neighbors, price in the middle. The room's cue to stand aside.
+**Why it matters:** A clean map is the filter before any trade. No clear king, no trade.
+Taught by Boogeyman, 2026-10-30 -- [replay](https://app.skylit.ai/stages/45fa1b40-8751-4841-ac56-37e930e58bf6/replay?t=3072)
+
+### King node
+The biggest node on the chart. Only three show per day: SPY, SPX, QQQ.
+**Why it matters:** The day's main magnet, and the anchor of the core trade.
+Taught by garma, 2026-11-07 -- [replay](https://app.skylit.ai/stages/5812e9ab-df02-40ef-8358-6d2a265e769d/replay?t=964)
+
+### King node deflection
+The core Skylit trade: price taps the king node, you take the reversal away from it. Do nothing in the middle.
+Taught by Larold, 2026-11-14 -- [replay](https://app.skylit.ai/stages/d8cfa43d-73b3-4a35-9b6c-1c23058473c9/replay?t=545)
+
+### Liquidity sweep
+Price takes out obvious stops at a high or low, then reverses.
+**Why it matters:** The fake-out before the real move. The month's most-taught entry starts here.
+Taught by Forbes, 2026-10-26 -- [replay](https://app.skylit.ai/stages/144a5b29-09da-4b06-9ed5-52fd2b93731c/replay?t=553)
+
+### Golden zone
+The fib pullback area where dips often stop.
+**Why it matters:** It marks the pullback worth waiting for instead of chasing.
+Taught by Boogeyman, 2026-11-02 -- [replay](https://app.skylit.ai/stages/fb69c402-a020-4aa6-a435-29ec50140869/replay?t=1783)
+
+### Break and retest
+After a level breaks, wait for price to come back and tap it from the other side.
+**Why it matters:** How the room enters a break without chasing it.
+Taught by nicog8, 2026-11-11 -- [replay](https://app.skylit.ai/stages/756a6a04-6d8b-43a6-917d-5066f307b5b1/replay?t=6520)
+
+### Opening range
+The high and low of the first 30 minutes. The break sets the first lean.
+**Why it matters:** The day's first real lean comes from this range breaking.
+Taught by nicog8, 2026-10-29 -- [replay](https://app.skylit.ai/stages/ca18602e-fbb5-4a25-bba4-74cddb1df5bd/replay?t=23218)
+
+### Opening reshuffle
+Dealers rebuild positions in the first 15 to 30 minutes, so nodes jump around.
+**Why it matters:** It is why the room waits out the open before trusting the map.
+Taught by garma, 2026-11-04 -- [replay](https://app.skylit.ai/stages/b3cdbc77-37a5-4597-bf25-29c8a4d11811/replay?t=877)
+
+### Pika
+The room's name for a yellow, positive node.
+**Why it matters:** Same, for the other side of the map.
+Taught by Boogeyman, 2026-10-26 -- [replay](https://app.skylit.ai/stages/687ceadc-60d8-4ced-ab6c-95a333183840/replay?t=2659)
+
+### Barney
+The room's name for a purple, negative node.
+**Why it matters:** You will hear it every session.
+Taught by Boogeyman, 2026-10-26 -- [replay](https://app.skylit.ai/stages/687ceadc-60d8-4ced-ab6c-95a333183840/replay?t=2659)
+
+### Rug and reverse rug
+A positive node over a negative one warns of a dump. Flipped, it warns of a pump.
+**Why it matters:** The map's loudest warning that a drop or a pop is loading.
+Taught by garma, 2026-11-10 -- [replay](https://app.skylit.ai/stages/c8ae979e-d3da-4531-85e9-b2a66491b592/replay?t=1378)
+
+### Chasing
+Entering late into a move that already happened.
+**Why it matters:** The most common way the room sees accounts bleed.
+Taught by Glitch, 2026-10-28 -- [replay](https://app.skylit.ai/stages/1c461666-a42f-472f-ad84-8fd94c3b42b6/replay?t=4363)
+
+### Timmy trades
+A Skylit order-flow marker for large trades hitting a price.
+**Why it matters:** It flags big orders the moment they hit.
+Taught by garma, 2026-11-06 -- [replay](https://app.skylit.ai/stages/cf447c83-2114-479b-b15d-71b78c791225/replay?t=7563)
+
+### Chop day
+Price whips both ways and goes nowhere.
+**Why it matters:** Calling chop early is the difference between a flat day and a bleed.
+Taught by garma, 2026-11-09 -- [replay](https://app.skylit.ai/stages/616c365a-2926-47c9-9305-a1b9e10c34b2/replay?t=5185)
+
+### Event day
+A session ruled by scheduled news: FOMC, CPI, OPEX, end of month.
+**Why it matters:** The maps go unreliable, so the play is size down or sit out.
+Taught by nicog8, 2026-10-30 -- [replay](https://app.skylit.ai/stages/459fe6ba-30dd-499b-87c3-272dd8ea8d12/replay?t=3614)
+
+### Trend day
+Price picks one direction and keeps it, breaking level after level.
+**Why it matters:** Fading costs the most on these days. Spot it early.
+Taught by garma, 2026-11-12 -- [replay](https://app.skylit.ai/stages/177f8fa7-3b56-4eaf-b3e4-3fa800f46bbf/replay?t=2139)
+
+### Six more node words, briefly
+
+- **Fresh node.** Newly built, untapped exposure. A node that has already held since the open is weaker.
+- **Gatekeeper.** A node in price's path that can slow or stop it before the bigger level behind it.
+- **Lit node.** A strike glowing with visibly large exposure. Bright yellow means strongly positive.
+- **Stubborn node.** A node that keeps holding or pulling price back, tap after tap.
+- **Edge nodes.** Large far-away nodes that signal a big player positioned for a move, like a hedge against bad news.
+- **Double shine.** Two expirations stacking exposure on one strike, so the node glows twice as strong.
+
+### Also heard on the Stages
+
+- **Air pocket.** A stretch of strikes with almost no exposure, so price can travel through it fast. A pathway between levels, not a place price stops.
+- **Kill zones.** The session windows: Asia 8 PM to midnight Eastern, London 2 AM to 5 AM, New York 9:30 to 4. Each session builds a range the next one trades against.
+- **Beach ball.** Price overshooting into a negative node and snapping back, like a beach ball pushed underwater. The overshoot is the setup, not the breakdown.
+- **Holy Trinity.** Three positive king nodes agreeing across the three maps at once. The strongest alignment the room trades.
+- **Bearish divergence.** Price rising while the king node flips lower. The room's signal of a fake-out pump.
+- **Chart first.** Technical analysis before the heat map. Find your own levels, then let the nodes confirm.
+
+---
+
+## The five skills: what to prioritize
+
+### Reading the Heatseeker maps
+Become an expert at reading the Heatseeker maps: where the nodes sit, how they move, and what that says about the next trade. `1,287 Statements` -- led by garma, Giul, nicog8, Larold.
+1. The Heatseeker map confirms your chart read. It is not a signal by itself.
+2. A setup needs two things: big volume pulling price toward a level, and a strong floor or ceiling there to turn it.
+3. Execute on the front expiration. Use the all view for the day's direction.
+4. SPY and QQQ maps go stale after the 4 PM close. SPX keeps trading, so its map stays live.
+5. Yellow nodes are the deflection spots. Purple nodes pull price in fast, then floor it or snap it back.
+6. Messy map, no trade: clustered nodes, equal-size neighbors, price stuck in the middle.
+To go deeper: Academy, Heatseeker course. [Chapter 3: Node Hierarchy](https://app.skylit.ai/academy/b0000001-0000-0000-0000-000000000003)
+
+### Setting up your charts
+Chart first: find your own levels, then set up Atlas and Trinity so the map confirms your read at a glance. `852 Statements` -- led by garma, Glitch, nicog8, Larold.
+1. Chart first: mark support and resistance yourself, then overlay the nodes as confluence.
+2. Atlas draws the nodes on the chart as orbs. Orb size is node strength.
+3. Limit the nodes you show: the top 5, or 20 to 30 percent of the king node.
+4. Trinity is the three-map view. Its triangles show node speed, not size.
+5. Timmy trades show only on futures charts. White is sell, blue is buy.
+6. Paper trade in Nexus before real money. The voices publish their configs there.
+To go deeper: Academy, Futures Clinic. [Charting Key Levels](https://app.skylit.ai/academy/d88ed06c-5707-4418-a32b-644134c0da87)
+
+### Setups and entries
+Learn the handful of entry patterns the room actually trades, and take only those. `1,212 Statements` -- led by garma, Giul, Forbes, nicog8.
+1. Enter on a reaction at a node, never in the middle of a range.
+2. Buy floors, short ceilings. The best price is the defined level.
+3. The first tap or first retest is the one to play. Trust fades with each tap after.
+4. Break and retest is the standard way to trade a lost floor or a reclaimed ceiling.
+5. Stack confirmations: maps agreeing, a sweep, a Timmy, a fib or psych level.
+6. No entry in the chop zone between nodes, and never buy straight into a king node.
+To go deeper: Academy, Heatseeker course. [Chapter 6: Execution Models, Trading the Deflection](https://app.skylit.ai/academy/b0000001-0000-0000-0000-000000000006)
+
+### Managing yourself
+Protect the account from your own habits. The voices call this the real skill. `445 Statements` -- led by garma, Giul, Glitch, nicog8.
+1. The biggest skill is standing aside when the map is unclear. Reading the map comes second.
+2. No daily dollar goal. A must-make-money mindset forces trades.
+3. After a green morning, stop or slow down hard. That is when wins get given back.
+4. Two failed tries on one idea is the cap. A third is revenge trading.
+5. Set your max losses, max daily loss, and size before the open. Never size by mood.
+6. Judge a trade by whether you would take it 10 of 10 times, not by the result.
+To go deeper: Academy, Futures Clinic. [Trading Psychology: Six Truths (Plus One)](https://app.skylit.ai/academy/23472cc5-bc1f-4358-99d3-8e590754b068)
+
+### Timing the day
+Know which hours help you and which hours hurt you. The clock is its own filter. `298 Statements` -- led by garma, nicog8, Glitch, Larold.
+1. Wait out the first 15 to 30 minutes. Dealers rehedge overnight and the maps reshuffle.
+2. The opening range reads at 10:00. Flux Field is not fully formed until 10:30.
+3. Lunch, about noon to 1:30, is chop. Most voices size down or sit out.
+4. The best windows are the first two hours and the last two. 2 to 4 PM beats lunch.
+5. The last ten minutes can invert the map as dealers unwind. Size tiny or just watch.
+6. Mondays reshuffle hardest. Fridays are called scammy, so de-risk a green week.
+To go deeper: Academy, Futures Clinic. [Why Futures: Contracts, Sessions and the Index Link](https://app.skylit.ai/academy/0f1e9488-951f-4f49-837e-b6751406d82a)
 
 ---
 

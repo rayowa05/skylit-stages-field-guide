@@ -1,6 +1,7 @@
 # The Unofficial Skylit Field Guide
 
 - Discord username: rayowa5
+- GitHub: rayowa05
 - Project identifier: stages-field-guide
 - Kind: agent
 
@@ -9,9 +10,9 @@ A knowledge pack for trading agents, not a running program. It distills one mont
 ## What it does
 
 - [FIELD-GUIDE.md](FIELD-GUIDE.md) is the whole guide in clean Markdown: the ten most-taught strategy ideas with who taught them and how often, the eight discipline rules every presenter repeats, the 71-rule No List grouped as machine-enforceable gates, and what the room teaches about building trading bots.
-- [skylit-unofficial-field-guide.pdf](skylit-unofficial-field-guide.pdf) is the same material as a four-page PDF for humans.
+- [the-stage-notes.pdf](the-stage-notes.pdf) is The Stage Notes: the same month as a ten-page PDF for humans, with the key terms, the five skills, the ten plays, the discipline rules, and replay links that jump to the second something was taught.
 
-Everything is paraphrased; there are no transcripts and no verbatim quotes in this folder. Every count can be traced in my notes to a speaker, a Stage, and a timestamp.
+There are no transcripts in this folder. The Markdown is paraphrase only; the PDF carries short quotes, each credited to its speaker and linked to the replay. Every count can be traced in my notes to a speaker, a Stage, and a timestamp.
 
 ## Skylit surface
 
